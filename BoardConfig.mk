@@ -150,4 +150,4 @@ TW_LOAD_VENDOR_MODULES := "adsp_loader_dlkm.ko gpr_dlkm.ko q6_notifier_dlkm.ko q
 TW_CUSTOM_CPU_TEMP_PATH := "/sys/class/thermal/thermal_zone28/temp"
 TW_BATTERY_SYSFS_WAIT_SECONDS := 6
 TW_BACKUP_EXCLUSIONS := /data/fonts
-TW_DEVICE_VERSION := OnePlus_14-A14
+TW_DEVICE_VERSION := OnePlus12R/Ace3
